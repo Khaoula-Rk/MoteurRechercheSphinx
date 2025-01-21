@@ -33,8 +33,11 @@ Frontend : HTML, CSS
 Serveur : Apache2
 Système de recherche : Sphinx
 #### Installation et utilisation
-#####Pré-requis
+#### Pré-requis
 - PHP 7.4 ou version ultérieure
 - MySQL
 - Sphinx installé et configuré
 - Serveur Apache
+#### Resultat d'affichage
+![Interface de recherche](images/localhost.png)
+![Résultat de la recherche](images/affichage.png)
