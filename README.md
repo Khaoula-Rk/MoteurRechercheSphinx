@@ -18,8 +18,8 @@ Ce projet repose sur une architecture optimisée pour garantir la précision et 
 - Serveur : Configuration d'Apache2 pour l'hébergement et la gestion du système.
 
 🌟 Impact et bénéfices
-Amélioration des performances : Recherche rapide et précise, même pour des bases de données volumineuses.
-Solution évolutive : Conçue pour s'adapter à divers besoins professionnels.
+- Amélioration des performances : Recherche rapide et précise, même pour des bases de données volumineuses.
+- Solution évolutive : Conçue pour s'adapter à divers besoins professionnels.
 
 #### Fonctionnalités clés
 - Architecture optimisée : Gestion de gros volumes de données grâce à Sphinx.
