@@ -38,6 +38,7 @@ Système de recherche : Sphinx
 - MySQL
 - Sphinx installé et configuré
 - Serveur Apache
+  
 #### Resultat d'affichage
 ![Interface de recherche](images/localhost.png)
 ![Résultat de la recherche](images/affichage.png)
