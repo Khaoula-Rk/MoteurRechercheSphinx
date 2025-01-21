@@ -9,13 +9,13 @@ Ce projet repose sur une architecture optimisée pour garantir la précision et 
 - Mise en place d'une solution évolutive, adaptée aux environnements professionnels variés.
   
 ⚡ Optimisation des performances
-Indexation avancée : Structuration efficace des données pour améliorer la vitesse d'exécution des recherches.
-Traitement des requêtes : Utilisation de SphinxQL pour formuler et exécuter des requêtes rapides et pertinentes.
+- Indexation avancée : Structuration efficace des données pour améliorer la vitesse d'exécution des recherches.
+- Traitement des requêtes : Utilisation de SphinxQL pour formuler et exécuter des requêtes rapides et pertinentes.
 
 🔧 Intégration technique
-Backend : Utilisation de PHP pour la gestion des requêtes et l'interfaçage avec MySQL.
-Frontend : Développement d'une interface utilisateur intuitive avec HTML et CSS.
-Serveur : Configuration d'Apache2 pour l'hébergement et la gestion du système.
+- Backend : Utilisation de PHP pour la gestion des requêtes et l'interfaçage avec MySQL.
+- Frontend : Développement d'une interface utilisateur intuitive avec HTML et CSS.
+- Serveur : Configuration d'Apache2 pour l'hébergement et la gestion du système.
 
 🌟 Impact et bénéfices
 Amélioration des performances : Recherche rapide et précise, même pour des bases de données volumineuses.
